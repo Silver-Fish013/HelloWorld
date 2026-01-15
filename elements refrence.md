@@ -72,3 +72,53 @@ THIS WILL BE IN ALPHABETICAL ORDER MOTHERFUCKER(S) SO DONT GO CRYING OVER NOT FI
 <meta>          Defines metadata about an HTML document
 <meter>         Defines a scalar measurement within a known range (a gauge)
 <nav>           Defines navigation links
+<noframes>      Defines an alternate content for users that do not support frames NOT SUPPORTED IN HTML5
+<noscript>      Defines an alternate content for users that do not support client-side scripts
+<object>        Defines a container for an external application
+<ol>            Defines an ordered list
+<optgroup>      Defines a group of related options in a drop-down list
+<option>        Defines an option in a drop-down list
+<output>        Defines the result of a calculation
+<p>             Defines a paragraph
+<param>         Defines a parameter for an object
+<picture>       Defines a container for multiple image sources
+<pre>           Defines preformatted text
+<progress>      Represents the progress of a task
+<q>             Defines a short quotation
+<rp>            Defines what to show in browsers that do not support ruby annotations
+<rt>            Defines an explanation/pronunciation of characters (for East Asian typography)
+<ruby>          Defines a ruby annotation (for East Asian typography)
+<s>             Defines text that is no longer correct
+<samp>          Defines sample output from a computer program
+<script></script>Defines a client-side script
+<search>        Defines a search section
+<section>       Defines a section in a document
+<select>        Defines a drop-down list
+<small>         Defines smaller text
+<source>        Defines multiple media resources for media elements (<video> and <audio>)
+<span>          Defines a section in a document
+<strike>        Defines strikethrough text NOT SUPPORTED IN HTML5 USE <del> OR <s> INSTEAD
+<strong>        Defines important text
+<style></style> Defines style information for a document
+<sub>           Defines subscripted text
+<summary>       Defines a visible heading for a <details> element
+<sup>           Defines superscripted text
+<svg></svg>       Defines a container for SVG graphics
+<table>         Defines a table
+<tbody>         Groups the body content in a table
+<td>            Defines a cell in a table
+<template>      Defines a container for content that should be hidden when the page loads
+<textarea>      Defines a multiline input control (text area)
+<tfoot>         Groups the footer content in a table
+<th>            Defines a header cell in a table 
+<thead>         Groups the header content in a table
+<time>          Defines a specific time (or datetime)
+<title>         Defines a title for the document
+<tr>            Defines a row in a table
+<track>         Defines text tracks for media elements (<video> and <audio>)
+<tt>            Defines teletype text NOT SUPPORTED IN HTML5 USE CSS INSTEAD
+<u>             Defines some text that is unarticulated adn styled differently from normal text
+<ul>            Defines an unordered list
+<var>           Defines a variable
+<video>         Defines embedded video content
+<wbr>           Defines a possible line-break
