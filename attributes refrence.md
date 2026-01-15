@@ -16,3 +16,5 @@ alt             |<area>,<img>, <input>  |Specifies an alternate text when the or
 
 async           |<script></script>      |Specifies the script is executed asynchronously (only for external scripts)
 
+autocomplete    |<form>, <input>        |Specifies whether the <form> or the <input> element should have autocomplete enabled
+
